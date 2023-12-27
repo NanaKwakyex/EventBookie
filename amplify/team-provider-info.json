@@ -1,0 +1,51 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eventbookie-dev-192043-authRole",
+      "UnauthRoleArn": "arn:aws:iam::752241423954:role/amplify-eventbookie-dev-192043-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::752241423954:role/amplify-eventbookie-dev-192043-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-eventbookie-dev-192043-deployment",
+      "UnauthRoleName": "amplify-eventbookie-dev-192043-unauthRole",
+      "StackName": "amplify-eventbookie-dev-192043",
+      "StackId": "arn:aws:cloudformation:us-east-1:752241423954:stack/amplify-eventbookie-dev-192043/537452b0-80f1-11ee-8879-0a15ebe194e5",
+      "AmplifyAppId": "d2e7akbhf7sax3"
+    }
+  },
+  "devv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eventbookie-devv-224109-authRole",
+      "UnauthRoleArn": "arn:aws:iam::752241423954:role/amplify-eventbookie-devv-224109-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::752241423954:role/amplify-eventbookie-devv-224109-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-eventbookie-devv-224109-deployment",
+      "UnauthRoleName": "amplify-eventbookie-devv-224109-unauthRole",
+      "StackName": "amplify-eventbookie-devv-224109",
+      "StackId": "arn:aws:cloudformation:us-east-1:752241423954:stack/amplify-eventbookie-devv-224109/d1f1db70-8368-11ee-940a-0a4ef2593737",
+      "AmplifyAppId": "d2e7akbhf7sax3"
+    },
+    "categories": {
+      "auth": {
+        "EventBookie": {}
+      },
+      "function": {
+        "storeEvents": {},
+        "getEvents": {},
+        "createEvents": {
+          "deploymentBucketName": "amplify-eventbookie-devv-224109-deployment",
+          "s3Key": "amplify-builds/createEvents-483446525a70374b5638-build.zip"
+        },
+        "readEvents": {
+          "deploymentBucketName": "amplify-eventbookie-devv-224109-deployment",
+          "s3Key": "amplify-builds/readEvents-592b4c47454f7a707879-build.zip"
+        }
+      },
+      "storage": {
+        "localEvents": {}
+      },
+      "api": {
+        "localEventhandler": {}
+      }
+    }
+  }
+}
