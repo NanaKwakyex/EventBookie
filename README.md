@@ -1,5 +1,8 @@
 # Event-Bookie
 
+![image](https://github.com/NanaKwakyex/EventBookie/assets/133118833/08d16555-a0bd-4742-9e9f-35d84f4ffedd)
+
+
 Problem: Events can be hard to find and even harder to get tickets. 
 
 Often, people tend to go out, have fun, and experience new things. This ends up being more of a stress builder than what they originally signed up for. This is because of the issue with being able to find events that are happening around you, trying to get tickets, as well as staying updated with any news with planned event. These struggles mentioned can deter people from attending community events and causes low attendance at events that otherwise wouldn’t have an issue pulling a sizeable crowd. 
