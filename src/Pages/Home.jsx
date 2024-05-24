@@ -10,7 +10,7 @@ function Home() {
 
   const fetchEvents = async () => {
     try {
-      const apiKey = '6RBlK9d5FW3sJE7gJnojn9OYWfgg6Czc';
+      const apiKey = 'YOUR_TICKETMASTER_API_KEY';
       const longitude = -77.0363700;
       const latitude = 38.8951100;
       const radius = 50

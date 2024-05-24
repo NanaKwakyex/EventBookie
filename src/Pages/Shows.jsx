@@ -5,7 +5,7 @@ const Shows = () => {
   const [ticketmasterEvents, setTicketmasterEvents] = useState([]);
   const [localEvents, setLocalEvents] = useState([]);
   const [selectedGenre, setSelectedGenre] = useState('shows'); // Default genre
-  const apiKey = '6RBlK9d5FW3sJE7gJnojn9OYWfgg6Czc'; // Replace with your Ticketmaster API key
+  const apiKey = 'YOUR_TICKETMASTER_API_KEY'; // Replace with your Ticketmaster API key
 
   // Fetch Ticketmaster events
   useEffect(() => {
