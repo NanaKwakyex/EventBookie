@@ -14,7 +14,7 @@ By utilizing a event booking web application, the problems with discovering new 
 ultimately delivering a seamless and user-centric solution for eventgoers and organizers alike. 
 
 
-Value proposition 
+Value proposition
 Finding the ideal event for your interests and schedule has never been simpler thanks to our consolidated web application. Discover a wide variety of events, all inside a user-friendly interface. No more switching between numerous websites or skipping out on wonderful chances. With the help of our platform, you can quickly reserve your position by booking your tickets. Event attendance will be simple going forward, so say goodbye to complicated payment gateways. We automate ticket sales, payment collecting, and attendee record-keeping for event organizers, giving them more time to concentrate on planning extraordinary events.
 We are also aware that having a stress-free event experience depends on remaining informed and connected. We keep 
 you informed at all times thanks to our effective communication tools. Be promptly notified of any last-minute event 
