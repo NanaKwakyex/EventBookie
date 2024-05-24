@@ -14,7 +14,7 @@ By utilizing a event booking web application, the problems with discovering new 
 ultimately delivering a seamless and user-centric solution for eventgoers and organizers alike. 
 
 
-Value proposition
+Value proposition: 
 Finding the ideal event for your interests and schedule has never been simpler thanks to our consolidated web application. Discover a wide variety of events, all inside a user-friendly interface. No more switching between numerous websites or skipping out on wonderful chances. With the help of our platform, you can quickly reserve your position by booking your tickets. Event attendance will be simple going forward, so say goodbye to complicated payment gateways. We automate ticket sales, payment collecting, and attendee record-keeping for event organizers, giving them more time to concentrate on planning extraordinary events.
 We are also aware that having a stress-free event experience depends on remaining informed and connected. We keep 
 you informed at all times thanks to our effective communication tools. Be promptly notified of any last-minute event 
@@ -22,7 +22,7 @@ updates or changes by email and in-app alerts. You can adapt more easily with th
 which also keeps event planners in touch with participants and guarantees that everyone is on the same page.
 
 
-Potential market size 
+Potential market size: 
 Our event booking platform has a substantial market potential, with a broad range of stakeholders and potential users that could use its services. Millions of people go to different events like concerts, sporting events, conferences, workshops, and more. This broad audience's range of interests and demographics has produced a sizable market for event discovery and ticketing services. Additionally, event planners—from tiny, neighborhood businesses to big corporations—represent a sizable market area. These event managers are always looking for effective solutions to run their events, expand their audience, and provide guests with a positive experience.
 According to the most recent figures, the global online event booking sector is worth billions of dollars. Competitors such as SeatGeek and TicketMaster have proved the industry's potential. However, there is still room for expansion, particularly in streamlining the user experience and improving communication between event organizers and attendees. While these rivals dominate particular market segments, there is potential for creative solutions that focus user-friendliness, efficiency, and real-time updates, providing an alternative for people seeking a more seamless and responsive event booking experience.
 
