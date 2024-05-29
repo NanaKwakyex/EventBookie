@@ -14,6 +14,7 @@ ultimately delivering a seamless and user-centric solution for eventgoers and or
 
 Our event booking platform has the potential to tap into a significant and growing industry, with millions of potential event-goers, event organizers, and a sizable existing market. We intend to capture a significant share of this market by addressing pain points in event discovery, ticket booking, and communication while providing a more user-centric and efficient alternative to existing solutions.
 
+Event Bookie allows users to create and add in there own events, see avalible events added that is going on soon and in the area (Washington DC Metropolitan area), along with events taken from tickemaster's discovery API. By having both a custom API for events and tikcetmaster for other events, users have a long list of events to pick from.
 
 So welcome in your new best-friend!
 Discover, book, and connect with events effortlessly on Event Bookie. We're not just a ticketing platform; we're a trusted channel for event organizers and attendees to stay in sync
